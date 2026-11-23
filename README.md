@@ -64,6 +64,22 @@ are retained in the affected files.
   component will not render this interface and may break the layout. Branding
   must be adapted to this fork rather than copied from upstream.
 
+## Screenshots
+
+Screenshots from a GXDE OS live installation (Simplified Chinese interface):
+
+**Welcome and language selection**
+
+![Welcome page with the GXDE logo and language list](docs/screenshots/welcome.png)
+
+**Timezone and location**
+
+![Location page with the timezone map](docs/screenshots/location.png)
+
+**User account setup**
+
+![User page with the avatar picker and account fields](docs/screenshots/users.png)
+
 ## Repository layout
 
 | Path | Purpose |
